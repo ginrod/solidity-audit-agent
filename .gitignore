@@ -22,3 +22,6 @@ reports/
 
 # Claude Code session files
 .claude/
+
+# Cursor IDE local files
+.cursor/
