@@ -19,3 +19,6 @@ reports/
 
 # Editor
 .DS_Store
+
+# Claude Code session files
+.claude/
